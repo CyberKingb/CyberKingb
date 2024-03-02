@@ -47,19 +47,13 @@ Feel free to reach out if you have any questions, collaboration, opportunities, 
 
 ## GitHub Stats
 
-[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyberKingb&show_icons=true&theme=radical)](https://github.com/CyberKingb)
+[![Uthman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyberKingb&show_icons=true&theme=radical)](https://github.com/CyberKingb)
 
 ---
 
 ## Total Contributions
 
-![Your Name's Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=CyberKingb&theme=radical)
-
----
-
-## GitHub Streak
-
-![Your Name's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CyberKingb&theme=radical)
+![Uthman's Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=CyberKingb&theme=radical)
 
 ---
 
