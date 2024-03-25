@@ -27,11 +27,11 @@ I'm a passionate Cybersecurity Analyst with expertise in incident response, thre
 
 ---
 
-## Projects
+<!--## Projects
 
-- [Project 1](link-to-project1): Brief description of project 1.
-- [Project 2](link-to-project2): Brief description of project 2.
-- [Project 3](link-to-project3): Brief description of project 3.
+  [Project 1](link-to-project1): Brief description of project 1.
+>- ##[Project 2](link-to-project2): Brief description of project 2.
+>- ##[Project 3](link-to-project3): Brief description of project 3.-->
 
 ---
 
