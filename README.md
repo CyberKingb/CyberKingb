@@ -13,6 +13,7 @@ I'm a passionate Cybersecurity Analyst with expertise in incident response, thre
 - 🌱 Constantly learning and exploring new tools and techniques
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/uthmanadewale/) and [Twitter](https://twitter.com/cyberking_1)
 - 📹 Check out my cybersecurity content on [YouTube](https://www.youtube.com/channel/UCpgPibVZVs68k6OqD_ZvWzA)
+- Check out my Resume [Resume](https://docs.google.com/document/d/1UvgcPrTbcszkv7l7lJgJe-f30KO0STYv/edit?rtpof=true)
 
 ---
 
