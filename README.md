@@ -60,4 +60,4 @@ Feel free to reach out if you have any questions, collaboration, opportunities, 
 
 ## Thank You for Visiting!
 
-![Visitor Count](https://profile-counter.glitch.me/CyberKingb/count.svg)
+![](https://komarev.com/ghpvc/?username=CyberKingb&color=dc143c))
